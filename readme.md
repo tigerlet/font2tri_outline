@@ -1,7 +1,11 @@
 # Font Triangulation Tool
 
 A Python library that converts TrueType/OpenType font glyph outlines into triangular meshes.
-
+![zhong.png](zhong.png)
+![guo.png](guo.png)
+![zi.png](zi.png)
+![ming.png](ming.png)
+![hui.png](hui.png)
 ## Features
 
 - ✅ **Full Sample Point Triangulation**: All line points and quadratic/cubic curve sample points are added to the vertex set
