@@ -125,3 +125,10 @@ font2tri_outline/
 ## License
 
 MIT License
+
+## Author
+
+Yuming Xu
+
+---
+
